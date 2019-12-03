@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98e06258-734c-48e4-ba12-e82acc4da8d9" name="Default Changelist" comment="" />
+    <list default="true" id="98e06258-734c-48e4-ba12-e82acc4da8d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +12,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="xcbernard" />
         <option value="小明" />
       </list>
     </option>
@@ -74,18 +77,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575342765706</updated>
-      <workItem from="1575342768041" duration="1292000" />
+      <workItem from="1575342768041" duration="2920000" />
     </task>
+    <task id="LOCAL-00001" summary="小明的注册功能">
+      <created>1575344380789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575344380789</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="小明的注册功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="小明的注册功能" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1575344339597">
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1575344378600">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575344339597" />
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575344378600" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1575343702966">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -94,9 +109,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="ShowDiffWithBranchDialog/0.0.1366.728@0.0.1366.728" timestamp="1575343815193" />
-    <state x="474" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575343890482">
+    <state x="275" y="78" key="Vcs.Push.Dialog.v2" timestamp="1575344391638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="474" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1575343890482" />
+    <state x="275" y="78" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575344391638" />
+    <state x="474" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575345563681">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="474" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1575345563681" />
+    <state x="437" y="0" key="git4idea.branch.GitSmartOperationDialog" timestamp="1575345791683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="0" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1575345791683" />
   </component>
 </project>
